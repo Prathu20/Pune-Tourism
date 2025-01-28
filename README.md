@@ -1,59 +1,38 @@
-# PuneTourism
+**Project Name:** Pune Tourism Website
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.1.1.
+**Description:**
 
-## Development server
+The Pune Tourism Website is a comprehensive platform designed to provide users with all the necessary information to explore the city of Pune. This project combines detailed guides, travel insights, and booking services to enhance the travel experience for users.
 
-To start a local development server, run:
+**Key Features:**
 
-```bash
-ng serve
-```
+**1) Tourist Spots:** 
+Showcases a curated list of the best places to visit in Pune, including historical landmarks, cultural attractions, and scenic destinations.
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+**2) Culinary Guide:** 
+Highlights iconic dishes and popular restaurants in Pune, offering users a taste of the city's unique food culture.
 
-## Code scaffolding
+**3) Travel Budgeting:** 
+Provides detailed travel expense estimates, helping users plan their trips efficiently.
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+**4) Hotel Booking System:** 
+Includes a feature that allows users to view and book hotel rooms directly through the website, ensuring convenience and simplicity.
 
-```bash
-ng generate component component-name
-```
+**5) User-Friendly Interface:** 
+Ensures easy navigation with an intuitive design and responsive layout.
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+**6) Responsive Design:** 
+Built to function seamlessly across devices, including desktops, tablets, and smartphones.
 
-```bash
-ng generate --help
-```
+**7) Dynamic Content Management:** 
+Content is dynamically displayed to engage users and provide updated information.
 
-## Building
 
-To build the project run:
+**Technology Stack:**
+Angular, HTML, CSS, JavaScript, and Bootstrap.
 
-```bash
-ng build
-```
+**Impact:**
+This project serves as an all-in-one platform for tourists, enabling them to explore Pune’s attractions, savor local dishes, and arrange accommodations effortlessly. The visually appealing design, along with its practical features, ensures a seamless user experience for both domestic and international travelers.
 
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
-
-## Running unit tests
-
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
-
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+**Objective:**
+To create a digital solution that promotes tourism in Pune by providing a reliable and interactive platform for users to plan and book their trips effectively.
